@@ -43,7 +43,7 @@ The required npm packages and dependencies you need to install before starting t
 
 ## Acknowledgement 
 
-* All TA's and Instructor who helped me to get this stage of *web-development*.
+* All TA's and Instructors from UNC Charlotte who helped me to get this stage of _web-development_.
 
 
 
