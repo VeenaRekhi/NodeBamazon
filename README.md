@@ -36,10 +36,10 @@ The required npm packages and dependencies you need to install before starting t
 ## Installation 
 
 * Before you start running all the files make sure you have your server for sql database is running and database file is right-one.
-* After downloading all the files from the folder please, make sure that you  enter the right -schema name- in -mySQl-.
-* After navigating through your folders you can use -node filename.js- to get the file running into the terminal.
-* Use -ctrl+c- for exit.
-* -Most important-  -Make sure all of your files are in the same folder as the package.json and npm module-
+* After downloading all the files from the folder please, make sure that you  enter the right _schema name_ in _mySQl_.
+* After navigating through your folders you can use _node filename.js_ to get the file running into the terminal.
+* Use _ctrl+c_ for exit.
+* __Most important__  _Make sure all of your files are in the same folder as the package.json and npm module_
 
 ## Acknowledgement 
 
