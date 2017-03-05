@@ -17,7 +17,8 @@ In this project we are creating an Amazon-like storefront with the MySQL data-st
 * package.json
 * database schema
 
-** VIDEO-CLIPS **
+** Screen Recording clips **
+
 Bamazon Customer - https://github.com/VeenaRekhi/NodeBamazon/blob/master/bamazonCustomerVideo.gif
 Bamazon Manager - https://github.com/VeenaRekhi/NodeBamazon/blob/master/bamazonManagerVideo.gif
 Bamazon Supervisor - https://github.com/VeenaRekhi/NodeBamazon/blob/master/bamazonSupervisorVideo.gif
