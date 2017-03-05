@@ -18,9 +18,9 @@ In this project we are creating an Amazon-like storefront with the MySQL data-st
 * database schema
 
 ** VIDEO-CLIPS **
-![](https://github.com/VeenaRekhi/NodeBamazon/bamazonCustomerVideo.gif)
-![](https://github.com/VeenaRekhi/NodeBamazon/bamazonManagerVideo.gif)
-![](https://github.com/VeenaRekhi/NodeBamazon/bamazonSuprvisorVideo.gif)
+![](https://github.com/VeenaRekhi/NodeBamazon/blob/master/bamazonCustomerVideo.gif)
+![](https://github.com/VeenaRekhi/NodeBamazon/blob/master/bamazonManagerVideo.gif)
+![](https://github.com/VeenaRekhi/NodeBamazon/blob/master/bamazonSupervisorVideo.gif)
 
 ** Prerequisites **
 
